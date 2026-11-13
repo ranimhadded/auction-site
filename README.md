@@ -31,12 +31,4 @@ The project contains:
 - Notification Service
 - A Solana Anchor program
 
-## Team
-
-- Amina Karchoud
-- Raed Bougueraa
-- Ranim Haddad
-
-Supervisor: Adel Dahman
-
 EPI Digital School — Academic Year 2024–2025
