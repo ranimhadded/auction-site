@@ -31,4 +31,21 @@ The project contains:
 - Notification Service
 - A Solana Anchor program
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Auction Details
+![Auction Details](screenshots/auction-details.png)
+
+### Create Auction
+![Create Auction](screenshots/create-auction.png)
+
+### Login
+![login](screenshots/login.png)
+
+### Messaging
+![Messaging](screenshots/messaging.png)
+
 EPI Digital School — Academic Year 2024–2025
